@@ -1,0 +1,24 @@
+définition : calculatrice fonctionnelle
+
+    bouttons systeme : 
+        boutton : Clear
+
+    bouttons opérateurs :
+        boutton : +
+        boutton : -
+        boutton : *
+        boutton : /
+        boutton : =
+
+    bouttons chiffres :
+        boutton : 0
+        boutton : 1
+        boutton : 2
+        boutton : 3
+        boutton : 4
+        boutton : 5
+        boutton : 6
+        boutton : 7
+        boutton : 8
+        boutton : 9
+
